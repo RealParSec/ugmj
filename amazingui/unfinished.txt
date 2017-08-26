@@ -1,0 +1,2 @@
+1. Ammo display is not finished
+2. Default darkrp derma has to be finished
