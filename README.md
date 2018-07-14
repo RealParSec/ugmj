@@ -8,3 +8,10 @@ Because if I realese script I wrote for some f*** who decides to scum me... What
 
 ## Why not sell it?
 Well I have taken a lot from GMod community for free, so it's time I give something for free too.
+
+## What does every folder contain?
+- Addon itself
+- Readme file with info:
+  - Who ordered the script
+  - State (unfinished/finished)
+  - Info on what is done and what you have to code yourself (of course if asked nicely I can finish the script)
