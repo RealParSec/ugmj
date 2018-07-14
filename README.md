@@ -2,7 +2,7 @@ Before we give you any further support we would like you to perform these steps:
 
 1. Shutdown your server
 2. Navigate to `garrysmod/addons/` and create there folder called `disabled`
-   - Move all your addons that are folders in to the newly created folder, except our addons
+   - Move all your "folder addons" in to the newly created folder, except our addons
 3. In your startup command remove `+host_workshop_collection <WS Collection ID>`
 4. Start your server
 
@@ -20,4 +20,4 @@ However, if the instruction worked and the error disappeared, we would like to a
      - Go back to step 1
 5. Perform this step until you go thru all of you addons
 
-**Warning if you use any leaks your support will be immediately denied**
+**Warning if you use any leaks your support will be immediately denied!!!**
