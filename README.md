@@ -19,3 +19,5 @@ However, if the instruction worked and the error disappeared, we would like to a
      - Move it back to `disabled` folder
      - Go back to step 1
 5. Perform this step until you go thru all of you addons
+
+**Warning if you use any leaks your support will be immediately denied**
