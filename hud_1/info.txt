@@ -1,11 +1,14 @@
-Client:
-Client Steam Profile:
+Client: Karma
+Client Steam Profile: http://steamcommunity.com/profiles/76561198124777256
+Client SteamID: STEAM_0:0:82255764
+Client SteamID64: 76561198124777256
 Basic info: Dark RP HUD
 
 Things to finish:
     - Player info above head
-    - Ping prop count info
-    - I think that is required
+    - Ping, prop count info
+    - Ammo count
+    - I don't really remember what is to be done.
 
 Requirements:
     - ULib
