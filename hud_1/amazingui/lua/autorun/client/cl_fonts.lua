@@ -1,3 +1,8 @@
+/*
+Coded by Jewson
+Copyright Jewson© 2016-2019
+Free for commercial/private use.
+*/
 local scalescreen = ScrH() / 1080
 
 surface.CreateFont( "AUI_HUD_Font", {

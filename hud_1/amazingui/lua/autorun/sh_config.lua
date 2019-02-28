@@ -1,8 +1,7 @@
 /*
-
-Coded by C4NC3R - © Copyright 2017 C4NC3R All rights reserved.
-For ApexServers.co use only.
-
+Coded by Jewson
+Copyright Jewson© 2016-2019
+Free for commercial/private use.
 */
 amazinguitable = amazinguitable or {}
 amazinguitable.config = amazinguitable.config or {}
