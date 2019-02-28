@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"        "Amazing UI"
+	"version"     "B 0.7.0"
+	"author_name" "C4NC3R"
+	"info"        "Nope"
+	"override"    "0"
+}
